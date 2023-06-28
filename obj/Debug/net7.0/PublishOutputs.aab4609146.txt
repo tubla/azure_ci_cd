@@ -1,0 +1,7 @@
+D:\Learning\Azure_Asp_Net\azure-app-rr\publish\azure-app-rr.exe
+D:\Learning\Azure_Asp_Net\azure-app-rr\publish\appsettings.Development.json
+D:\Learning\Azure_Asp_Net\azure-app-rr\publish\appsettings.json
+D:\Learning\Azure_Asp_Net\azure-app-rr\publish\azure-app-rr.dll
+D:\Learning\Azure_Asp_Net\azure-app-rr\publish\azure-app-rr.deps.json
+D:\Learning\Azure_Asp_Net\azure-app-rr\publish\azure-app-rr.runtimeconfig.json
+D:\Learning\Azure_Asp_Net\azure-app-rr\publish\azure-app-rr.pdb
