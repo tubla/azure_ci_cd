@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj": {}
+    "D:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj": {}
   },
   "projects": {
-    "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj": {
+    "D:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj",
+        "projectUniqueName": "D:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj",
         "projectName": "azure-app-rr",
-        "projectPath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj",
+        "projectPath": "D:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj",
         "packagesPath": "C:\\Users\\RAHUL\\.nuget\\packages\\",
-        "outputPath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\obj\\",
+        "outputPath": "D:\\Learning\\Azure_Asp_Net\\azure-app-rr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RAHUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,8 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +44,26 @@
             "Microsoft.ApplicationInsights.AspNetCore": {
               "target": "Package",
               "version": "[2.21.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.7, )"
             }
           },
           "imports": [

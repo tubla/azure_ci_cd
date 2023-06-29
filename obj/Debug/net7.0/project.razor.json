@@ -18645,13 +18645,28 @@
   "RootNamespace": "azure_app_rr",
   "Documents": [
     {
+      "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Persons\\Details.cshtml",
+      "TargetPath": "Pages\\Persons\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Persons\\Delete.cshtml",
+      "TargetPath": "Pages\\Persons\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Persons\\Edit.cshtml",
+      "TargetPath": "Pages\\Persons\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18665,6 +18680,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Persons\\Index.cshtml",
+      "TargetPath": "Pages\\Persons\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
@@ -18672,6 +18692,11 @@
     {
       "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Learning\\Azure_Asp_Net\\azure-app-rr\\Pages\\Persons\\Create.cshtml",
+      "TargetPath": "Pages\\Persons\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
