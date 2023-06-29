@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "psxujLXqW+Oixgymz/mNV22SNNQLHLsT13x0nwuivpfae3dKFvUqEdADXkbkpMLCLaQgIyyNxCuyzrMQ0FVT6A==",
+  "dgSpecHash": "faZf1Q82gepS0ETngOCAaRgiZzHLyVeWSS663KWgRuSfoLwE7AO0320of/IQ5pud+krM4lpWWKRfy3HxLWCjLA==",
   "success": true,
   "projectFilePath": "D:\\Learning\\Azure_Asp_Net\\azure-app-rr\\azure-app-rr.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\RAHUL\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
+    "C:\\Users\\RAHUL\\.nuget\\packages\\azure.core\\1.32.0\\azure.core.1.32.0.nupkg.sha512",
+    "C:\\Users\\RAHUL\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\RAHUL\\.nuget\\packages\\azure.messaging.servicebus\\7.15.0\\azure.messaging.servicebus.7.15.0.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
@@ -72,6 +74,7 @@
     "C:\\Users\\RAHUL\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.1.1\\microsoft.aspnetcore.webutilities.2.1.1.nupkg.sha512",
+    "C:\\Users\\RAHUL\\.nuget\\packages\\microsoft.azure.amqp\\2.6.2\\microsoft.azure.amqp.2.6.2.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
     "C:\\Users\\RAHUL\\.nuget\\packages\\microsoft.build.framework\\17.3.2\\microsoft.build.framework.17.3.2.nupkg.sha512",

@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = azure_app_rr
 build_property.RootNamespace = azure_app_rr
-build_property.ProjectDir = D:\Learning\Azure_Asp_Net\azure-app-rr\
+build_property.ProjectDir = d:\Learning\Azure_Asp_Net\azure-app-rr\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Learning\Azure_Asp_Net\azure-app-rr
+build_property.MSBuildProjectDirectory = d:\Learning\Azure_Asp_Net\azure-app-rr
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Error.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Index.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Create.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Delete.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Details.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Edit.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Index.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Persons/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Privacy.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/_ViewImports.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/_ViewStart.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Shared/_Layout.cshtml]
+[d:/Learning/Azure_Asp_Net/azure-app-rr/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-adt372c96r
